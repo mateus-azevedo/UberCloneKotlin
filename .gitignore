@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# API key Firebase
+# Download file -> https://drive.google.com/file/d/1Rw8H43oHsLuJpmbqfGcaJW6MS2OQB_2w/view?usp=sharing
+google-services.json
